@@ -1,0 +1,16 @@
+#Python==3.12.4
+#pip==24.1.2
+#virtual_len==20.26.3
+flask
+python-dotenv
+sentence-transformers
+langchain_google_genai
+langchain
+langchain-community
+pypdfium2
+langchain-chroma
+scikit-learn
+langchain-huggingface
+tiktoken
+flask-cors
+rank_bm25
