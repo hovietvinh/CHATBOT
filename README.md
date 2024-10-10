@@ -12,7 +12,7 @@ This is the dedicated project by five people on the subject Tutor Chatbot
 4. You need to create a file .env package BE_chatbot 
 ```bash
 export GEMINI_API_KEY = 'AIzaSyAMiTwhDIYIOb-mkNAgY_2EHx1KgIhKqMY'
-export PORT = 3001
+export PORT = 3001````
 
 
 (cd to the BE_Nodejs -> be-v1)
